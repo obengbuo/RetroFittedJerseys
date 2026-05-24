@@ -1,0 +1,20 @@
+# Photos / large assets
+photos/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Debug HTML dumps
+debug_*.html
+
+# OS
+.DS_Store
+Thumbs.db
